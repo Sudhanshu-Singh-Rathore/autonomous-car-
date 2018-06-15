@@ -98,6 +98,4 @@ line_image = draw_lines(img, lines, [0, 0, 255], 2)
 
 cv2.imshow('GoodImage', blur)
 cv2.waitKey(0)
-#REFERENCE:
-#http://www.multunus.com/blog/2016/07/autonomous-rc-car-using-raspberry-pi-and-neural-networks/
-#https://github.com/pseudoyim/galvaneye
+
